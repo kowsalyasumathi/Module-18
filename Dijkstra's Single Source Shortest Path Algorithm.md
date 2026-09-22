@@ -20,8 +20,8 @@ Create a `sptSet[]` array (shortest path tree set) to keep track of vertices who
 
 ## PYTHON PROGRAM
 ```python
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 import sys
 class Graph():
