@@ -19,8 +19,8 @@ To write a Python program for **Kruskal's algorithm** to find the Minimum Spanni
 
 ## PYTHON PROGRAM
 ```python
-# Reg.No: 212223060014
-# Name: AKSHAYA SETTU
+# Reg.No: 212223060129
+# Name: KOWSALYA V
 
 from collections import defaultdict
 class Graph:
